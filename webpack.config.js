@@ -30,6 +30,7 @@ module.exports = {
     new HtmlWebpackPlugin({
       template: './index.html', // Your HTML template
     }),
+    new MiniCssExtractPlugin()
   ],
   devServer: {
     static: {
