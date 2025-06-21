@@ -7,6 +7,7 @@ Build a simple web app that allows a user to track how they’re spending their 
 ### [Check out the Live Demo](https://mini-timer-tracker-omzx.vercel.app/ "Mini Timer Tracker")
 
 #### Screenshot
+![image](https://github.com/user-attachments/assets/69f5d626-6ed6-447b-b7d0-4846e5d5ea14)
 
 #### What you need to run this code
 1. Node (v22.16.0)
